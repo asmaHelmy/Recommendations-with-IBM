@@ -7,6 +7,14 @@ Analyzing the user-articles interactions on the IBM Watson Studio platform, and 
 3. Content Based Recommendations.
 4. Matrix Factorization.
 
+## Required packages:
+- python3
+- pandas
+- matplotlib
+- numpy
+- nltk
+- sklearn
+
 
 **This project was done as a part of Udacity's Data Scientist Nanodegree.**
 
